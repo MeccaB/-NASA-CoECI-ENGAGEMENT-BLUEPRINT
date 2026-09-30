@@ -12,7 +12,7 @@ To turn **NASA Solve** (external) and **NASA Spark** (internal) from low-frequen
 ## 1. NASA Solve (External ICP): Engineering a 'Sticky' Alliance
 The primary obstacle for adult professionals (founders, senior engineers, researchers) is opportunity cost. To secure their consistent presence, NASA must offer unprecedented institutional backing:
 
-*   **The 'ApolloTech Alliance':** Induct winners and top-tier applicants from the **NASA Tournament Lab (NTL)** portfolio into a formal, multi-year alliance network. Having their technology vetted against NASA standards acts as an elite stamp of approval to unlock venture capital, enterprise clients, or defense contracts.
+*   **The [ApolloTech Alliance](NASA_CoECI_Engagement_Blueprint%20\(2\).pdf):** Induct winners and top-tier applicants from the **NASA Tournament Lab (NTL)** portfolio into a formal, multi-year alliance network. Having their technology vetted against NASA standards acts as an elite stamp of approval to unlock venture capital, enterprise clients, or defense contracts.
 *   **High-Level Exposure & Fast-Tracks:** Grant top community contributors preferential points or fast-track status for NASA Small Business Innovation Research (SBIR) grants. Host closed-door annual briefings where contributors pitch directly to **NASA Center Technology Transfer Officers (TTOs)**, Mission Directorate Chiefs, and commercial aerospace primes.
 *   **Direct Infrastructure Access:** Provide active solvers with cloud credits or remote access to specialized NASA software tools, datasets, and simulation environments behind federal firewalls. Offer virtual or physical residency time within NASA labs to validate commercial products.
 
@@ -27,7 +27,7 @@ For internal NASA employees and contractors, the primary barriers are time and p
 
 ---
 
-## 3. THE STARS PROGRAM: Scaling Societal & Entrepreneurial Impact
+## 3. THE [STARS PROGRAM](NASA_CoECI_Engagement_Blueprint%20\(2\).pdf): Scaling Societal & Entrepreneurial Impact
 To elevate this from a technical network into a life-changing ecosystem, CoECI will launch **STARS (Space Technology Alliance for Relationships & Solutions)**. STARS focuses on translating space-bound open innovation into commercial enterprise acceleration and widespread societal benefits. The top tier of the ApolloTech Alliance operates under the **STARS Program** to scale breakthroughs and provide a launchpad for entrepreneurs. It features historical scaling wins (such as water purification, aerogel insulation, and GPS infrastructure) and proposes the **STARS Innovation Docuseries** -a video format offering entrepreneurs prime-time exposure while driving daily user engagement.
 
 ### 🎥 The Content Strategy: Cinematic Case Studies
